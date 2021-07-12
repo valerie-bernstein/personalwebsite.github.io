@@ -71,6 +71,7 @@ social:
   name                   : Valerie Bernstein # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - https://twitter.com/scigalval
+    - https://github.com/valerie-bernstein
 
 # Analytics
 analytics:
@@ -81,15 +82,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Valerie Bernstein"
+  avatar           : "profile.jpg"
+  bio              : "NSF Graduate Research Fellow, PhD Candidate, University of Colorado Boulder"
+  location         : "Colorado, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=qM2RFKoAAAAJ&hl=en"
+  email            : "valerie.bernstein@colorado.edu"
+  researchgate     : "https://www.researchgate.net/profile/Valerie-Bernstein" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "valerie-bernstein"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4467-6112"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "scigalval"
   vine             :
   weibo            :
   xing             :
