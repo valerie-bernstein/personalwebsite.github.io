@@ -18,8 +18,18 @@ header:
 {% endfor %}
 --->
 
-* <b>Bernstein, V.</b>, Pilinski, M., and Knipp, D. [Evidence for Drag Coefficient Modeling Errors Near and Above the Oxygen-to-Helium Transition.](https://doi.org/10.2514/1.A34740) <i>Journal of Spacecraft and Rockets 57(6)</i>,1246-1263, 2020.
+Refereed Journal Articles
+------
 
-* Knipp, D., <b>Bernstein, V.</b>, Wahl, K., and Hayakawa, H. [Timelines as a Tool for Learning about Space Weather Storms](https://doi.org/10.1051/swsc/2021011) <i>Journal of Space Weather and Space Climate 11(29)</i>, 2021.
+* <b>Bernstein, V.</b>, Pilinski, M., and Knipp, D. [Evidence for Drag Coefficient Modeling Errors Near and Above the Oxygen-to-Helium Transition.](https://doi.org/10.2514/1.A34740) <i>Journal of Spacecraft and Rockets 57(6)</i>, 1246-1263, 2020.
 
-* Winter, L., <b>Bernstein, V.</b>, Omodei, N., and Pesce-Rollins, M. [A Statistical Study to Determine the Origin of Long-Duration Gamma-ray Flares](https://iopscience.iop.org/article/10.3847/1538-4357/aad3c0) <i>The Astrophysical Journal 864(1)</i>, 2018.
+* Knipp, D., <b>Bernstein, V.</b>, Wahl, K., and Hayakawa, H. [Timelines as a Tool for Learning about Space Weather Storms.(https://doi.org/10.1051/swsc/2021011) <i>Journal of Space Weather and Space Climate 11(29)</i>, 2021.
+
+* Winter, L., <b>Bernstein, V.</b>, Omodei, N., and Pesce-Rollins, M. [A Statistical Study to Determine the Origin of Long-Duration Gamma-ray Flares.](https://iopscience.iop.org/article/10.3847/1538-4357/aad3c0) <i>The Astrophysical Journal 864(1)</i>, 2018.
+
+Non-Refereed Conference Proceedings and Reports
+------
+
+* <b>Bernstein, V.</b>, Pilinski, M., and Sutton, E. [Assessing Thermospheric Densities Derived from Orbital Drag Data.](https://www.researchgate.net/publication/353193424_Assessing_Thermospheric_Densities_Derived_from_Orbital_Drag_Data) <i>Proceedings of the 31st AAS/AIAA Space Flight Mechanics Meeting</i>, AAS 21-354, 2021.
+
+* <b>Bernstein, V.</b>, Walker, A., and Winter, L. [The Effect of Helium on Low Earth Orbit Atmospheric Drag.](http://personalwebsite.github.io/files/swx-report-2018.pdf) <i>Los Alamos Space Weather Summer School Research Reports</i>, LA-UR 18-31636, 2018.
