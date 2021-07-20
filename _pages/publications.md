@@ -32,4 +32,4 @@ Non-Refereed Conference Proceedings and Reports
 
 * <b>Bernstein, V.</b>, Pilinski, M., and Sutton, E. [Assessing Thermospheric Densities Derived from Orbital Drag Data.](https://www.researchgate.net/publication/353193424_Assessing_Thermospheric_Densities_Derived_from_Orbital_Drag_Data) <i>Proceedings of the 31st AAS/AIAA Space Flight Mechanics Meeting</i>, AAS 21-354, 2021.
 
-* <b>Bernstein, V.</b>, Walker, A., and Winter, L. [The Effect of Helium on Low Earth Orbit Atmospheric Drag.](http://personalwebsite.github.io/files/swx-report-2018.pdf) <i>Los Alamos Space Weather Summer School Research Reports</i>, LA-UR 18-31636, 2018.
+* <b>Bernstein, V.</b>, Walker, A., and Winter, L. [The Effect of Helium on Low Earth Orbit Atmospheric Drag.](https://www.lanl.gov/projects/national-security-education-center/space-earth-center/space-weather-school/_assets/docs/swx-report-2018.pdf) <i>Los Alamos Space Weather Summer School Research Reports</i>, LA-UR 18-31636, 2018.
