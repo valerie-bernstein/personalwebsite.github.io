@@ -1,16 +1,12 @@
 ---
 layout: archive
 title: "Publications"
-excerpt: |
-  <br>
+permalink: /publications/
+author_profile: true
 header:
   overlay_image: header_image.JPG
   overlay_filter: 0.3
-permalink: /publications/
-author_profile: true
-share: true
 ---
-
 {% include base_path %}
 
   You can also find my publications on <a href="https://www.researchgate.net/profile/Valerie-Bernstein/research">ResearchGate</a>, <a href="https://scholar.google.com/citations?user=qM2RFKoAAAAJ&hl=en">Google Scholar</a>, and <a href="https://orcid.org/0000-0002-4467-6112">ORCiD</a>.
