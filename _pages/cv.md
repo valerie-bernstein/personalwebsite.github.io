@@ -126,9 +126,23 @@ Community Service and Outreach
 
 Professional Training and Development
 ======
+* **Artificial Intelligence for Earth System Science (AI4ESS) Summer School**, National Center for Atmospheric Research (2020)
+* **ComSciCon Rocky Mountain West**, University of Colorado Boulder (2019)
+* **Colorado Science Policy Summit**, Colorado Project Bridge, University of Colorado Anschutz (2019)
+* **Boulder Space Weather Summer School**, High Altitude Observatory (2019)
+* **Science Speak-Easy Workshop**, Fiske Planetarium, University of Colorado Boulder (2018)
 
-Technical Skills
+Specialized Skills
 ======
+* **Modeling and Simulation**
+  * Global Atmospheric Models: Mass Spectrometer and Incoherent Scatter Extended Model (MSIS), Thermosphere-Ionosphere-Electrodynamics General Circulation Model (TIE-GCM)
+  * Orbit Propagation: Simplified General Perturbations (SGP4), Systems Tool Kit (STK), General Mission Analysis Tool (GMAT)
+  * Gas-Surface Interactions and Aerodynamics: Sentman, Schamberg, Goodman, DRIA, Langmuir, Cercignani-Lampis-Lord
+* **Datasets**: Two-Line-Element orbital tracking data, GRACE Level 1B accelerometer data, CHAMP and GRACE density datasets, Planetary Kp and Ap geomagnetic indices, F10.7 index, Dst index, Advanced Composition Explorer (ACE) SWEPAM and MAG solar wind data, GPS energetic particle data 
+* **Programming**
+  * Languages: Python, MATLAB, R, Unix, IDL, D3 Javascript, HTML
+  * Software and Applications: Git, Jupyter Notebook, Observable Notebook, Google Colab
+* **Statistics and Analysis**: Monte Carlo methods (DSMC), Bayesian vs. Frequentist Approaches, Data Assimilation, Kalman Filter, Variational (least-squares) Estimation, Clustering, Linear and Quadratic Discriminant Analysis, Principle Component Analysis
 
 Supercomputing Allocations
 ======
