@@ -19,7 +19,7 @@ I am currently a Ph.D. candidate in the Aerospace Engineering Sciences Departmen
 Current Work
 ------
 
-My graduate work focuses on improving atmospheric drag modeling, which is important for satellite collision avoidance and protecting our technology in space. Specifically, I develop satellite aerodyanmic drag models using information gleaned from orbital data. I analyze multi-satellite orbital drag observations to infer information about the physics of aerodynamic modeling and the variability of Earth's upper atmosphere. In addition,  I strive to use my research and education experiences to promote engagement with and accessibility of Earth and space science, especially for non-technical or younger audiences. Ask me about my space plasma mini-golf design!
+My graduate work focuses on improving atmospheric drag modeling, which is important for satellite collision avoidance and protecting our technology in space. Specifically, I develop satellite aerodynamic drag models using information gleaned from orbital data. I analyze multi-satellite orbital drag observations to infer information about the physics of aerodynamic modeling and the variability of Earth's upper atmosphere. In addition,  I strive to use my research and education experiences to promote engagement with and accessibility of Earth and space science, especially for non-technical or younger audiences. Ask me about my space plasma mini-golf design!
 
 
 Looking ahead
