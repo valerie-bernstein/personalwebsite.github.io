@@ -36,4 +36,4 @@ Non-Refereed Conference Proceedings and Reports
 
 Software
 ------
-<b>Bernstein, V.</b> and Wahl, K. Identifying and Visualizing the Moon's Position with respect to the Earth's Magnetotail (v1.0.0), Zenodo, 2021, [DOI:10.5281/zenodo.5144032](https://doi.org/10.5281/zenodo.5144032)
+* <b>Bernstein, V.</b> and Wahl, K. Identifying and Visualizing the Moon's Position with respect to the Earth's Magnetotail (v1.0.0), Zenodo, 2021, [DOI:10.5281/zenodo.5144032](https://doi.org/10.5281/zenodo.5144032)
