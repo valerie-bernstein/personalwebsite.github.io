@@ -30,3 +30,5 @@ Check out the video and poster presentations on this work below, presented at th
 <embed src="https://www.valeriebernstein.com/files/Poster_SWW2021_final.pdf" width="500" height="500" type='application/pdf'>
 
 Stay tuned for the publicly available version of this tool, soon to be released as a forkable Observable Notebook!
+
+You can find all of the publications and presentations associated with this project under the *References* tab of this [ResearchGate Project Page](https://www.researchgate.net/project/Interactive-Tool-to-Visualize-Space-Weather-Scenarios).
