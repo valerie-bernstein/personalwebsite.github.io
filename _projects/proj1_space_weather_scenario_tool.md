@@ -23,6 +23,10 @@ Check out our open-access journal article on space weather timeline development 
  
 The tool is designed using D3 JavaScript as an interactive tree map, which users can click through to trace different space weather sequences of events from space weather activity origins to potential communication, hardware, and human impacts. We are working on including characteristics of the events, like duration and intensity, as well as general information about the likelihood of the possible effects produced. 
 
-Check out the poster and video presentations on this work below, presented at the virtual 2021 Space Weather Workshop.
+Check out the video and poster presentations on this work below, presented at the virtual 2021 Space Weather Workshop.
+
+{% include youtubePlayer.html id="aVNDKAq6rn4" %}
 
 <embed src="https://www.valeriebernstein.com/files/Poster_SWW2021_final.pdf" width="500" height="500" type='application/pdf'>
+
+Stay tuned for the publicly available version of this tool, soon to be released as a forkable Observable Notebook!
