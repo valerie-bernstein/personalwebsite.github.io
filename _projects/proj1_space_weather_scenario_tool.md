@@ -17,8 +17,12 @@ Space weather forecasters, satellite operators, trainees and students could all 
 
 Thus far, one major space weather active period has been reviewed to populate the majority of the events and impacts included in the interactive tool: the storms of December, 2006. To help piece together these complex space weather case studies, we develop detailed timelines of physical stormtime events and observed impacts based on extensive literature reviews. An example timeline of space-based and ground-based impacts from the December, 2006 active period is included below.
 
-![Dec 2006 Impacts Timeline](images/Dec2006_system_impacts_timeline_v6.png)
+![Dec 2006 Impacts Timeline](https://raw.githubusercontent.com/valerie-bernstein/personalwebsite.github.io/master/images/Dec2006_system_impacts_timeline_v6.png)
 
-Check out our open-access journal article on space weather timeline development in support of this project, [Timelines as a Tool for Learning about Space Weather Storms](https://www.swsc-journal.org/articles/swsc/abs/2021/01/swsc200106/swsc200106.html). Additional space weather event case studies we're working on untangling now include January, 1938 and September, 2017.
+Check out our open-access journal article on space weather timeline development in support of this project, [Timelines as a Tool for Learning about Space Weather Storms](https://www.swsc-journal.org/articles/swsc/abs/2021/01/swsc200106/swsc200106.html). Additional space weather event case studies we are working on untangling now include January, 1938 and September, 2017.
  
-The tool is designed using D3 JavaScript as an interactive tree map, which users can click through to trace different space weather sequences of events from space weather activity origins to potential communication, hardware, and human impacts. Characteristics of the events, like duration and intensity, are included as well as general information about the likelihood of the possible effects produced. 
+The tool is designed using D3 JavaScript as an interactive tree map, which users can click through to trace different space weather sequences of events from space weather activity origins to potential communication, hardware, and human impacts. We are working on including characteristics of the events, like duration and intensity, as well as general information about the likelihood of the possible effects produced. 
+
+Check out the poster and video presentations on this work below, presented at the virtual 2021 Space Weather Workshop.
+
+<embed src="https://personalwebsite.github.io/files/Poster_SWW2021_final.pdf" width="500" height="500" type='application/pdf'>
