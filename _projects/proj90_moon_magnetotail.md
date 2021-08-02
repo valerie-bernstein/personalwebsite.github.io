@@ -8,7 +8,7 @@ author_profile: true
 share: true
 ---
 
-**Identifying and Visualizing the Moon's Position with respect to the Earth's Magnetotail**
+### Identifying and Visualizing the Moon's Position with respect to the Earth's Magnetotail
 
 GitHub Repository: [Moon-and-Magnetotail](https://github.com/valerie-bernstein/Moon-and-Magnetotail)
 
@@ -58,7 +58,7 @@ In the above images, the Earth is located at (0,0,0). The purple data points rep
 
 We can also display a zoomed-in view of this phase plot for a single lunar cycle (one month). This allows for a closer look at how much time the moon spends inside the bow shock and magnetotail in a month. Vertical lines indicate the times when the moon enters the regions of interest.
 
-![Moon Phase Zoomed]https://raw.githubusercontent.com/valerie-bernstein/personalwebsite.github.io/master/images/moon_phase_plot_zoomed_in.png)
+![Moon Phase Zoomed](https://raw.githubusercontent.com/valerie-bernstein/personalwebsite.github.io/master/images/moon_phase_plot_zoomed_in.png)
 
 You can find all of the publications and presentations associated with this project under the *References* tab of this [ResearchGate Project Page](https://www.researchgate.net/project/Deep-Space-Radiation-Genomics-DSRG-Experiment-on-Artemis-1-Magnetotail-and-Bow-Shock-Effect).
 

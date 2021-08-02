@@ -8,7 +8,7 @@ author_profile: true
 share: true
 ---
 
-### The Space Weather Scenario Toolkit is an interactive, web-based tool designed to allow users to explore sequences of space weather events, from physical drivers to technology and human impacts.
+### The Space Weather Scenario Toolkit is an interactive, web-based tool designed to allow users to explore sequences of space weather events, from physical drivers to technology and human impacts. 
 
 Space weather forecasters, satellite operators, trainees and students could all benefit from an interactive tool designed to map out space weather storms and impacts. We are developing a Space Weather Scenario Toolkit, a web-based resource for users to map out sequences of space weather events. The toolkit draws connections between space weather storms and the different engineering problems they can cause. The educational and practical tool distinguishes between physical drivers of space weather, intermediate observations and signals, and human/technology impacts. Prior and ongoing conversations with space weather forecasters from the United Kingdom and the NOAA Space Weather Prediction Center (SWPC) have deeply informed the direction of the toolkit development based on the practical needs of forecasters. As such, this work contributes to space weather research-to-operations, visualization, and educational goals.
 
