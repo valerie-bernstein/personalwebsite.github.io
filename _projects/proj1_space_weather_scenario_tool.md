@@ -12,7 +12,7 @@ share: true
 
 Space weather forecasters, satellite operators, trainees and students could all benefit from an interactive tool designed to map out space weather storms and impacts. We are developing a Space Weather Scenario Toolkit, a web-based resource for users to map out sequences of space weather events. The toolkit draws connections between space weather storms and the different engineering problems they can cause. The educational and practical tool distinguishes between physical drivers of space weather, intermediate observations and signals, and human/technology impacts. Prior and ongoing conversations with space weather forecasters from the United Kingdom and the NOAA Space Weather Prediction Center (SWPC) have deeply informed the direction of the toolkit development based on the practical needs of forecasters. As such, this work contributes to space weather research-to-operations, visualization, and educational goals.
 
-![Space Weather Tool Description Flow Chart](images/Space_Weather_Tool_Description_Flow_Chart.png)
+![Space Weather Tool Description Flow Chart](https://raw.githubusercontent.com/valerie-bernstein/personalwebsite.github.io/master/images/Space_Weather_Tool_Description_Flow_Chart.png)
 
 
 Thus far, one major space weather active period has been reviewed to populate the majority of the events and impacts included in the interactive tool: the storms of December, 2006. To help piece together these complex space weather case studies, we develop detailed timelines of physical stormtime events and observed impacts based on extensive literature reviews. An example timeline of space-based and ground-based impacts from the December, 2006 active period is included below.
