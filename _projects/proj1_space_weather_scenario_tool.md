@@ -25,7 +25,7 @@ The tool is designed using D3 JavaScript as an interactive tree map, which users
 
 Check out the video and poster presentations on this work below, presented at the virtual 2021 Space Weather Workshop.
 
-{% include youtubePlayer.html id="aVNDKAq6rn4" %}
+{% include YoutubePlayer.html id="aVNDKAq6rn4" %}
 
 <embed src="https://www.valeriebernstein.com/files/Poster_SWW2021_final.pdf" width="500" height="500" type='application/pdf'>
 
