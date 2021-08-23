@@ -142,7 +142,7 @@ Specialized Skills
 * **Programming**
   * Languages: Python, MATLAB, R, Unix, IDL, D3 Javascript, HTML
   * Software and Applications: Git, Jupyter Notebook, Observable Notebook, Google Colab
-* **Statistics and Analysis**: Monte Carlo methods (DSMC), Bayesian vs. Frequentist Approaches, Data Assimilation, Kalman Filter, Variational (least-squares) Estimation, Clustering, Linear and Quadratic Discriminant Analysis, Principle Component Analysis
+* **Statistics and Analysis**: Monte Carlo methods (DSMC), Bayesian vs. Frequentist approaches, Data Assimilation, Kalman Filter, Variational (least-squares) Estimation, Clustering, Linear and Quadratic Discriminant Analysis, Principal Component Analysis
 
 Supercomputing Allocations
 ======
