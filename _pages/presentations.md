@@ -29,6 +29,8 @@ Invited Talks
 Presentations and Posters
 ------
 
+* <b>Bernstein, V.</b> and Pilinski, M. [Multi-Satellite Density Variability Provides Insight Into Aerodynamic Coefficients near the Oxygen-to-Helium Transition.](https://www.researchgate.net/publication/356125569_Multi-Satellite_Density_Variability_Provides_Insight_Into_Aerodynamic_Coefficients_near_the_Oxygen-to-Helium_Transition) <i>European Space Weather Week</i>, Oct 2021. (Poster)
+
 * <b>Bernstein, V.</b>, Pilinski, M., and Minton, T. [Evaluating Multi-Satellite Density Consistencies to Improve Gas-Surface Interaction Modeling in Helium-Rich Atmospheres.](https://www.researchgate.net/publication/353209310_Evaluating_Multi-Satellite_Density_Consistencies_to_Improve_Gas-_Surface_Interaction_Modeling_in_Helium-Rich_Atmospheres) <i>NSF Coupling, Energetics, and Dynamics of Atmospheric Regions Workshop, Virtual</i>, June 2021. (Poster)
 
 * <b>Bernstein, V.</b>, Wahl, K., and Knipp, D. [Interactive Tool to Visualize Space Weather Scenarios.](https://www.researchgate.net/publication/353196544_Interactive_Tool_to_Visualize_Space_Weather_Scenarios) <i>Space Weather Workshop, Virtual</i>, Apr 2021. (Poster)
