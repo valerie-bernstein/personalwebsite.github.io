@@ -9,6 +9,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+    - title: "Features"
+    url: /features/
+
   - title: "CV"
     url: /cv/
         
