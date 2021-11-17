@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Public Radio Interview
+title: KGNU Public Radio Interview
 header:
   teaser: glass_disk_prototype.jpg
 collection: feature
@@ -8,4 +8,4 @@ author_profile: true
 share: true
 ---
 
-### Interviewed for KGNU Colorado Public Radio Station on the topic of space debris
+### Interviewed about space debris for KGNU Colorado Public Radio Station

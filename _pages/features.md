@@ -11,3 +11,7 @@ entries_layout: grid
 classes: wide
 author_profile: true
 ---
+
+{% include base_path %}
+
+I am occasionally featured in the media!
