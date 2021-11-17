@@ -2,7 +2,7 @@
 layout: single
 title: KGNU Public Radio Interview
 header:
-  teaser: glass_disk_prototype.jpg
+  teaser: glass_disk.jpg
 collection: feature
 author_profile: true
 share: true
