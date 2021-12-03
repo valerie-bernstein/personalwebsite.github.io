@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  overlay_image: header_img.JPG
+  overlay_image: aspens.png
   overlay_filter: 0.3
 ---
 {% include base_path %}

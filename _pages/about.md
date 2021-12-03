@@ -3,7 +3,7 @@ permalink: /
 title: <br>
 layout: single
 header:
-  overlay_image: header_img.JPG
+  overlay_image: aspens.png
   overlay_filter: 0.3
 excerpt: "About me"
 author_profile: true

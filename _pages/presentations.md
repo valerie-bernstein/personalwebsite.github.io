@@ -2,7 +2,7 @@
 layout: archive
 title: "Presentations"
 header:
-  overlay_image: header_img.JPG
+  overlay_image: aspens.png
   overlay_filter: 0.3
 permalink: /presentations/
 author_profile: true

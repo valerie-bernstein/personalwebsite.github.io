@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 header:
-  overlay_image: header_img.JPG
+  overlay_image: aspens.png
   overlay_filter: 0.3
 ---
 
