@@ -2,7 +2,7 @@
 layout: single
 title: Particle Putt-Putt
 header:
-  teaser: aurora.gif
+  teaser: aurora_cropped.gif
 collection: project
 author_profile: true
 share: true
